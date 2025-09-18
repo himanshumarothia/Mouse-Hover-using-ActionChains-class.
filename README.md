@@ -13,7 +13,7 @@ Website used for testing : "https://demo.automationtesting.in/Register.html"
 
 Explanation :
 
-  1.Imported webdriver from selenium to interact with browser.
-  2.Imported 'By' class to locate the element of browser.
-  3.Imported ActionChains class for hover element.
-  4.Import time to give delay between the scripts.
+   1.Imported webdriver from selenium to interact with browser.
+   2.Imported 'By' class to locate the element of browser.
+   3.Imported ActionChains class for hover element.
+   4.Import time to give delay between the scripts.
